@@ -10,7 +10,7 @@ You need a text file with all the words of the language you're playing with, eas
 If you are playing the version with 4, 5 and 6 letters, you can start the application with something like this:
 
 ```shell
-java -jar target/wordling_cheater-1.0-SNAPSHOT-jar-with-dependencies.jar --dictionaryFile=br-utf8.txt 4 5 6
+java -jar target/wordling_cheater-1.0-jar-with-dependencies.jar --dictionaryFile=br-utf8.txt 4 5 6
 ```
 
 You will see a "cliche" shell:
